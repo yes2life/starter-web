@@ -17,3 +17,7 @@ This is new. swatts
 ## Deployment
 This is a simple web project, deployment can be on any web server.
 swatts
+
+### Copyright Section
+
+2014 Git Training
